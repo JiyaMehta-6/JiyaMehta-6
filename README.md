@@ -1,10 +1,10 @@
 # about me:
-  title: "Data Analytics & Machine Learning Developer"
+
   ## summary:
-    - Strong foundation in Python, SQL, and data-driven problem solving
-    - Exploring Embedded Systems alongside intelligent software solutions
-    - Interested in building scalable systems combining hardware and data intelligence
-    - Focused on writing clean, modular, production-ready code
+  - Strong foundation in Python, SQL, and data-driven problem solving
+  - Exploring Embedded Systems alongside intelligent software solutions
+  - Interested in building scalable systems combining hardware and data intelligence
+  - Focused on writing clean, modular, production-ready code
 
 ## currently working on:
   - End-to-end Machine Learning pipelines (preprocessing → modeling → evaluation)
