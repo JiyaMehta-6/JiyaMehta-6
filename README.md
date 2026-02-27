@@ -1,5 +1,84 @@
-# 💫 About Me:
-👩‍💻 About Me<br><br>Data Analytics & Machine Learning focused developer<br><br>Strong foundation in Python, SQL, and data-driven problem solving<br><br>Exploring Embedded Systems alongside intelligent software solutions<br><br>Interested in building scalable, practical systems that combine hardware + data intelligence<br><br>Focused on writing structured, production-ready code<br><br>🚀 Currently Working On<br><br>End-to-end Machine Learning pipelines (data preprocessing → modeling → evaluation)<br><br>Data analysis workflows using Python & SQL<br><br>Embedded Systems fundamentals (microcontrollers, hardware interfacing, system-level logic)<br><br>Integrating software logic with hardware-based implementations<br><br>Improving model performance using feature engineering & tuning techniques<br><br>🤝 Open to Collaborate On<br><br>Data Analytics projects (EDA, dashboards, reporting systems)<br><br>Machine Learning model building & optimization<br><br>SQL-based data querying and database design tasks<br><br>Embedded Systems beginner-to-intermediate projects<br><br>Python-based automation tools<br><br>🧠 Currently Studying<br><br>Advanced Machine Learning algorithms<br><br>Database management & query optimization<br><br>Embedded C / microcontroller architecture concepts<br><br>Statistical modeling techniques<br><br>System design fundamentals<br><br>📊 Data Analytics Skills<br><br>Data Cleaning & Preprocessing<br><br>Exploratory Data Analysis (EDA)<br><br>Statistical Analysis<br><br>SQL Query Writing & Data Extraction<br><br>Data Visualization<br><br>Feature Engineering<br><br>Insight Generation & Reporting<br><br>🤖 Machine Learning Skills<br><br>Supervised Learning (Regression, Classification)<br><br>Model Training & Cross Validation<br><br>Performance Metrics (Accuracy, Precision, Recall, F1 Score)<br><br>Basic Hyperparameter Tuning<br><br>Workflow Automation for ML tasks<br><br>Model evaluation & improvement<br><br>🛠 Technical Skills<br>Languages<br><br>Python<br><br>SQL<br><br>C (Foundational – Embedded Systems)<br><br>Libraries & Frameworks<br><br>NumPy<br><br>Pandas<br><br>Matplotlib<br><br>Scikit-learn<br><br>PySide6<br><br>Databases<br><br>MySQL<br><br>SQLite<br><br>Tools & Platforms<br><br>Git & GitHub<br><br>VS Code<br><br>Jupyter Notebook<br><br>🔌 Embedded Systems Exposure<br><br>Basic microcontroller concepts<br><br>Hardware-software interaction<br><br>System-level debugging<br><br>Understanding of low-level programming fundamentals<br><br>📈 What I Bring<br><br>Analytical thinking with structured execution<br><br>Strong database + data processing foundation<br><br>Ability to work across software and hardware domains<br><br>Clean, modular coding practices<br><br>Growth mindset in AI, Data Science & Embedded Systems
+# about me:
+  title: "Data Analytics & Machine Learning Developer"
+  ## summary:
+    - Strong foundation in Python, SQL, and data-driven problem solving
+    - Exploring Embedded Systems alongside intelligent software solutions
+    - Interested in building scalable systems combining hardware and data intelligence
+    - Focused on writing clean, modular, production-ready code
+
+## currently working on:
+  - End-to-end Machine Learning pipelines (preprocessing → modeling → evaluation)
+  - Data analysis workflows using Python & SQL
+  - Embedded Systems fundamentals (microcontrollers, hardware interfacing)
+  - Integrating software logic with hardware-based implementations
+  - Model performance improvement through feature engineering & tuning
+
+## open to collaborate on:
+  - Data Analytics projects (EDA, dashboards, reporting systems)
+  - Machine Learning model development & optimization
+  - SQL-based database design and query optimization
+  - Embedded Systems projects (beginner to intermediate level)
+  - Python-based automation tools
+
+## currently studying:
+  - Advanced Machine Learning algorithms
+  - Database management & query optimization
+  - Embedded C and microcontroller architecture
+  - Statistical modeling techniques
+  - System design fundamentals
+
+## skills:
+  data_analytics:
+    - Data Cleaning & Preprocessing
+    - Exploratory Data Analysis (EDA)
+    - Statistical Analysis
+    - SQL Query Writing
+    - Data Visualization
+    - Feature Engineering
+    - Insight Reporting
+
+  machine_learning:
+    - Supervised Learning (Regression, Classification)
+    - Model Training & Cross Validation
+    - Performance Metrics (Accuracy, Precision, Recall, F1)
+    - Hyperparameter Tuning (basic)
+    - Model Evaluation & Optimization
+    - ML Workflow Automation
+
+  programming languages:
+    - Python
+    - SQL
+    - C (Foundational – Embedded Systems)
+
+  libraries frameworks:
+    - NumPy
+    - Pandas
+    - Matplotlib
+    - Scikit-learn
+    - PySide6
+
+  databases:
+    - MySQL
+    - SQLite
+
+  tools:
+    - Git
+    - GitHub
+    - VS Code
+    - Jupyter Notebook
+
+embedded systems:
+  - Microcontroller fundamentals
+  - Hardware–software interaction
+  - System-level debugging
+  - Low-level programming concepts
+
+## what_i_bring:
+  - Strong analytical thinking
+  - Structured approach to problem solving
+  - Cross-domain capability (software + hardware)
+  - Clean, maintainable code practices
+  - Continuous learning mindset in AI & Embedded Systems
 
 
 ## 🌐 Socials:
