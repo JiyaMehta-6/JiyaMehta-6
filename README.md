@@ -10,13 +10,13 @@ Focused on scalable architecture, ML pipelines, and clean, modular code.
 
 End-to-end ML workflows
 Data analytics with Python & SQL  
-Embedded C & microcontrollers  
+Embedded Micropython & microcontrollers  
 Model optimization & feature engineering  
 
 # 🛠 Tech Stack
 
 ### Languages
-Python • SQL • C  
+Python • SQL • C++ • Java • Micropython 
 
 ### Data & Machine Learning
 NumPy • Pandas • Matplotlib • Scikit-learn • Statistical Modeling • Feature Engineering • Cross Validation • Hyperparameter Tuning • Model Evaluation  
