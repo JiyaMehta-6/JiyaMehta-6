@@ -1,6 +1,7 @@
 # 🚀 About Me
 
 Engineer building data-driven systems and exploring Embedded Systems.
+
 Focused on scalable architecture, ML pipelines, and clean, modular code.
 
 # 🔧 Current Focus
