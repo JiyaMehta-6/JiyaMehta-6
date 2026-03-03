@@ -8,7 +8,8 @@ Focused on scalable architecture, ML pipelines, and clean, modular code.
 
 # 🔧 Currently Working on
 
-Two Commercial embedded systems with esp32 and esp 8266 & A low-level community project with arduino
+### Two Commercial embedded systems with esp32 and esp 8266 & A low-level community project with arduino
+
 
 # 🔧 Primary Focus
 
