@@ -7,7 +7,7 @@ Engineer building data-driven systems and exploring Embedded Systems.
 Focused on scalable architecture, ML pipelines, and clean, modular code.
 
 # Currently Working on
-Three Commercial embedded systems with arduino, esp32 and eso 8266
+Three Commercial embedded systems with arduino, esp32 and esp 8266
 
 # 🔧 Current Focus
 
