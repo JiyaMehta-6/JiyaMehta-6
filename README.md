@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  “If you think technology can solve your security problems,<br>
-  then you don’t understand the problems and you don’t understand the technology.”<br>
-  — Radia Perlman
+Hello there! 
 </p>
 
 ---
