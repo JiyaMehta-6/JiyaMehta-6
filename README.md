@@ -1,62 +1,144 @@
-<div align="center">
+<p align="center">
+  <b>Engineer • Data Systems • Embedded Systems</b><br>
+  Building data-driven systems and low-level hardware solutions
+</p>
 
-# 🚀 About Me
+---
 
-Engineer building data-driven systems and exploring Embedded Systems.
+<p align="center">
+<img src="https://github.com/RichLewis007/RichLewis007/blob/main/assets/dividing-line-3.svg">
+</p>
 
-Focused on scalable architecture, ML pipelines, and clean, modular code.
+<p align="center">
+  “If you think technology can solve your security problems,<br>
+  then you don’t understand the problems and you don’t understand the technology.”<br>
+  — Radia Perlman
+</p>
 
-# 🔧 Currently Working on
+---
 
-### Two Commercial embedded systems with esp32 and esp 8266 & A low-level community project with arduino
+## 🚧 Currently Building
 
+- Commercial **embedded systems** with **ESP32 / ESP8266**
+- Low-level **Arduino community project**
+- **Machine learning pipelines**
+- **Data analysis systems in Python**
 
-# 🔧 Primary Focus
+---
 
-End-to-end ML workflows
-Data analytics with Python & SQL  
-Embedded Micropython & microcontrollers  
-Model optimization & feature engineering  
+# 🧠 Core Technologies
 
-# 🛠 Tech Stack
+## Languages
 
-### Languages
-Python • SQL • C++ • Java • Micropython 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,bash&perline=6">
+</p>
 
-### Data & Machine Learning
-NumPy • Pandas • Matplotlib • Scikit-learn • Statistical Modeling • Feature Engineering • Cross Validation • Hyperparameter Tuning • Model Evaluation  
+<p align="center">
+Python • C++ • Java • JavaScript • TypeScript • Bash • MicroPython
+</p>
 
-### Software Engineering
-OOP • Modular Architecture • REST Concepts • Automation Scripting • Logging & Debugging  
+---
 
-### Databases
-MySQL • SQLite • Query Optimization • Schema Design  
+## Libraries & Frameworks
 
-### Tools & Environment
-Git • GitHub • VS Code • Jupyter Notebook • Linux (CLI) • Virtual Environments  
+<p align="center">
 
-### Embedded Systems
-Embedded MicroPython • Microcontroller Architecture • Hardware–Software Interfacing • Low-Level Debugging • System-Level Troubleshooting  
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 
-<br>
+</p>
 
-<!-- Badges -->
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<p align="center">
+NumPy • Pandas • Matplotlib • Scikit-learn • PyTorch • TensorFlow
+</p>
 
-<br>
+---
 
-# 💡 Strengths
+## Data Science & Machine Learning
 
-Analytical thinking • Structured problem solving • Software + hardware integration • Clean code practices  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch">
+</p>
 
-<br>
+<p align="center">
+Statistical Modeling • Feature Engineering • Cross Validation • Model Evaluation
+</p>
 
-# 🌐 Socials
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jiyamehtans)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiya-mehta-72968133a/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyamehtans@gmail.com)
+## Databases
 
-<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb">
+</p>
 
+<p align="center">
+MySQL • SQLite • MongoDB • Query Optimization • Schema Design
+</p>
 
+---
+
+## Software Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode">
+</p>
+
+<p align="center">
+OOP • Modular Architecture • REST Concepts • Automation • Logging • Debugging
+</p>
+
+---
+
+## Embedded Systems
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp">
+</p>
+
+<p align="center">
+ESP32 • ESP8266 • Embedded MicroPython  
+Hardware–Software Interfacing • Low-Level Debugging
+</p>
+
+---
+
+## Tools & Development Environment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,anaconda">
+</p>
+
+<p align="center">
+VS Code • Jupyter Notebook • Linux CLI • Virtual Environments • Git
+</p>
+
+---
+
+## 💡 Strengths
+
+- Analytical thinking  
+- Structured problem solving  
+- Hardware + software integration  
+- Clean modular architecture  
+
+---
+
+## 🌐 Find Me Around The Web
+
+<p align="center">
+  <a href="https://instagram.com/jiyamehtans">
+    <img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jiya-mehta-72968133a/">
+    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:jiyamehtans@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
