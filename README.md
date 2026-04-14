@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Engineer • Data Systems • Embedded Systems</b><br>
+  <b>Engineer • Data Systems • Embedded Systems • Hardware Security</b><br>
   Building data-driven systems and low-level hardware solutions
 </p>
 
