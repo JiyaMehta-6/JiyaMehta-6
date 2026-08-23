@@ -1,142 +1,265 @@
-<p align="center">
-  <b>Engineer • Data Systems • Embedded Systems • Hardware Security</b><br>
-  Building data-driven systems and low-level hardware solutions
-</p>
-
----
+# Jiya Mehta
 
 <p align="center">
-<img src="https://github.com/RichLewis007/RichLewis007/blob/main/assets/dividing-line-3.svg">
+  <b>Security Research · Embedded Systems · Machine Learning · Deep Learning · Software Engineering</b>
 </p>
 
 <p align="center">
-Hello there! 
+  Designing systems where software, hardware, and security intersect.
 </p>
 
----
+<br>
 
-## 🚧 Currently Building
+I build software and hardware systems with a focus on **security, analysis, machine learning, and reliability**.
 
-- Commercial **embedded systems** with **ESP32 / ESP8266**
-- Low-level **Arduino community project**
-- **Machine learning pipelines**
-- **Data analysis systems in Python**
+My work spans embedded devices, machine learning and deep learning pipelines, program analysis, developer tooling, and data systems. I am particularly interested in the layer beneath the interface: how data moves through a system, how software behaves internally, where assumptions break, and how those failures can be detected systematically.
 
----
+<br>
 
-# 🧠 Core Technologies
+## What I Build
 
-## Languages
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Security Systems
+
+Tools for understanding and detecting software weaknesses.
+
+Static analysis, vulnerability detection, memory-safety analysis, program-level reasoning, and security automation.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Embedded Systems
+
+Software that interacts directly with physical hardware.
+
+ESP32-based systems, firmware, device communication, sensor integration, and hardware-software interfaces.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ML & Data Systems
+
+Data-driven systems designed for practical detection and analysis.
+
+Machine learning, deep learning, feature engineering, classification, evaluation pipelines, data processing, and model validation.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Engineering Tools
+
+Developer-focused software that makes complex workflows easier to analyze and automate.
+
+Python tooling, automation, diagnostics, analysis pipelines, and system utilities.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Engineering Toolkit
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Languages
+
+`Python`
+`C / C++`
+`Java`
+`JavaScript`
+`TypeScript`
+
+</td>
+
+<td width="33%" valign="top">
+
+### ML & Deep Learning
+
+`PyTorch`
+`TensorFlow`
+`Scikit-Learn`
+`NumPy`
+`Pandas`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Systems
+
+`Linux`
+`Git`
+`SQLite`
+`MongoDB`
+`Jupyter`
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### Embedded
+
+`ESP32`
+`ESP8266`
+`Arduino`
+`MicroPython`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Analysis
+
+`Static Analysis`
+`Program Analysis`
+`Data Pipelines`
+`Model Evaluation`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Engineering
+
+`Automation`
+`Debugging`
+`System Design`
+`Performance Analysis`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Currently Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Security Analysis
+
+Building systems for detecting software vulnerabilities through program analysis, data-flow reasoning, and machine learning.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Embedded Systems
+
+Developing ESP32-based systems spanning firmware, device communication, hardware integration, and low-level debugging.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ML & DL Detection
+
+Developing machine learning and deep learning pipelines for security-oriented classification, feature engineering, representation learning, evaluation, and detection.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Developer Tooling
+
+Creating Python-based tools for automation, analysis, diagnostics, and engineering workflows.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Research Direction
+
+My current technical interests sit around **security-oriented program analysis, machine learning, and deep learning for intelligent vulnerability detection**.
+
+I am interested in moving beyond surface-level pattern matching toward systems that can reason about program behavior, including:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,bash&perline=6">
+  <code>Data Flow</code>
+  <code>Control Flow</code>
+  <code>Value Propagation</code>
+  <code>Memory Capacity</code>
+  <code>Interprocedural Analysis</code>
+  <code>Vulnerability Verification</code>
 </p>
 
-<p align="center">
-Python • C++ • Java • JavaScript • TypeScript • Bash • MicroPython
-</p>
+The goal is not simply to flag suspicious code, but to understand **why a program becomes unsafe** and distinguish genuine vulnerabilities from benign patterns.
 
----
+<br>
 
-## Libraries & Frameworks
+## Engineering Approach
 
-<p align="center">
+<table>
+<tr>
+<td align="center" width="25%">
 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+### Analyze
 
-</p>
+Understand the system before modifying it.
 
-<p align="center">
-NumPy • Pandas • Matplotlib • Scikit-learn • PyTorch • TensorFlow
-</p>
+</td>
 
----
+<td align="center" width="25%">
 
-## Data Science & Machine Learning
+### Measure
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch">
-</p>
+Use experiments and evaluation rather than assumptions.
 
-<p align="center">
-Statistical Modeling • Feature Engineering • Cross Validation • Model Evaluation
-</p>
+</td>
 
----
+<td align="center" width="25%">
 
-## Databases
+### Build
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb">
-</p>
+Turn analysis into practical tooling.
 
-<p align="center">
-MySQL • SQLite • MongoDB • Query Optimization • Schema Design
-</p>
+</td>
 
----
+<td align="center" width="25%">
 
-## Software Engineering
+### Verify
+
+Test whether results hold beyond the original example.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Connect
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode">
-</p>
-
-<p align="center">
-OOP • Modular Architecture • REST Concepts • Automation • Logging • Debugging
-</p>
-
----
-
-## Embedded Systems
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp">
-</p>
-
-<p align="center">
-ESP32 • ESP8266 • Embedded MicroPython  
-Hardware–Software Interfacing • Low-Level Debugging
-</p>
-
----
-
-## Tools & Development Environment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,anaconda">
-</p>
-
-<p align="center">
-VS Code • Jupyter Notebook • Linux CLI • Virtual Environments • Git
-</p>
-
----
-
-## 💡 Strengths
-
-- Analytical thinking  
-- Structured problem solving  
-- Hardware + software integration  
-- Clean modular architecture  
-
----
-
-## 🌐 Find Me Around The Web
-
-<p align="center">
-  <a href="https://instagram.com/jiyamehtans">
-    <img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/jiya-mehta-72968133a/">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:jiyamehtans@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://instagram.com/jiyamehtans">
+    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Software · Hardware · Security · Machine Learning · Deep Learning</sub>
 </p>
