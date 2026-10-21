@@ -1,4 +1,4 @@
-# Jiya Mehta
+<h2><p align="center">Jiya Mehta</p></h2>
 
 <p align="center">
   <b>Security Research · Embedded Systems · Machine Learning · Deep Learning · Software Engineering</b>
@@ -14,57 +14,7 @@ I build software and hardware systems with a focus on **security, analysis, mach
 
 My work spans embedded devices, machine learning and deep learning pipelines, program analysis, developer tooling, and data systems. I am particularly interested in the layer beneath the interface: how data moves through a system, how software behaves internally, where assumptions break, and how those failures can be detected systematically.
 
-<br>
 
-## What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Security Systems
-
-Tools for understanding and detecting software weaknesses.
-
-Static analysis, vulnerability detection, memory-safety analysis, program-level reasoning, and security automation.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Embedded Systems
-
-Software that interacts directly with physical hardware.
-
-ESP32-based systems, firmware, device communication, sensor integration, and hardware-software interfaces.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ML & Data Systems
-
-Data-driven systems designed for practical detection and analysis.
-
-Machine learning, deep learning, feature engineering, classification, evaluation pipelines, data processing, and model validation.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering Tools
-
-Developer-focused software that makes complex workflows easier to analyze and automate.
-
-Python tooling, automation, diagnostics, analysis pipelines, and system utilities.
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ## Engineering Toolkit
 
@@ -254,9 +204,6 @@ Test whether results hold beyond the original example.
   </a>
   <a href="mailto:jiyamehtans@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://instagram.com/jiyamehtans">
-    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
